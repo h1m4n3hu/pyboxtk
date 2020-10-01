@@ -145,6 +145,7 @@ def ogsignlerf():
     img66btn.config(image=img66,width="100",height="100")
     img66btn.place(x=1100,y=500)
     #cmnt
+    #cmnt2
 
     enter.configure(background='white')
     enter.mainloop()
