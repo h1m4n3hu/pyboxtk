@@ -144,7 +144,7 @@ def ogsignlerf():
     img66btn=Button(sgnfrm,border=0,command=imgbinary66,bg="white",relief=FLAT)
     img66btn.config(image=img66,width="100",height="100")
     img66btn.place(x=1100,y=500)
-
+    #cmnt
 
     enter.configure(background='white')
     enter.mainloop()
